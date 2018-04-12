@@ -1,3 +1,5 @@
 # SprawdzPogode
-To jest moj pierwszy projekt na git hubie
-dzien dobry
+
+### INSTALL
+
+1. Copy over UserConfig.xml.dist as UserConfig.xml

@@ -1,0 +1,6 @@
+﻿namespace SprawdzPogode
+{
+    class Logger
+    {
+    }
+}
