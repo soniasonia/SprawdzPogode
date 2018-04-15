@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<config>
+  <files>
+    <file type="input">\\spplfapcen02\userdata\CE50NV\Documents\Exercise\SprPogode\Lista.txt</file>
+    <file type="output">\\spplfapcen02\userdata\CE50NV\Documents\Exercise\SprPogode\Wyniki.xlsx</file>
+  </files>
+</config>
