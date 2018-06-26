@@ -22,10 +22,10 @@ Every search is saved to Excel file as a new row. If the weather DIV is visible 
 | 2018/06/06 12:34:56| Katowice    |         17° |             5%| 6 km/h |
 
 ### How is it built
-Readers: to read data from files (txt, xml) - implement from Ireader
-Handlers:  to manage external application (Chrome, Google) using packages - implement from IHandler
-Exctractors: communicates via strings with ChromeHandler and ExcelHandler to transfer data
-Exceptions: custom exception DataNotDound for ChromeHandler
+- Readers: to read data from files (txt, xml) - implement from Ireader
+- Handlers:  to manage external application (Chrome, Google) using packages - implement from IHandler
+- Exctractors: communicates via strings with ChromeHandler and ExcelHandler to transfer data
+- Exceptions: custom exception DataNotDound for ChromeHandler
 
 ### To be added
 Logger
