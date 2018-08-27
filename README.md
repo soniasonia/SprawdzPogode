@@ -1,4 +1,5 @@
 # SprawdzPogode
+
 Project created in purpose of learning C# and OOP (SOLID & DRY way):
 - Basic data input features 
 - Excel handling
@@ -26,6 +27,3 @@ Every search is saved to Excel file as a new row. If the weather DIV is visible 
 - Handlers:  to manage external application (Chrome, Google) using packages - implement from IHandler
 - Exctractors: communicates via strings with ChromeHandler and ExcelHandler to transfer data
 - Exceptions: custom exception DataNotDound for ChromeHandler
-
-### To be added
-Logger
