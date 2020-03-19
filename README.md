@@ -1,3 +1,6 @@
+> RPA (Robotic process automation) is used when standard automation is not applicable because it is too expensive or take too much time versus the benefit that can be made by much faster RPA implementation. 
+> RPA does not require any change in the application used in the process. Where there is no API available, RPA script (often called robot) can interact with existing GUI. It mimics human actions, like clicking button or setting text to the form. These actions are combined with reading data from/saving to documents like Word, Excel or DB.
+
 # SprawdzPogode
 
 Project created in purpose of learning C# and OOP (SOLID & DRY way):
